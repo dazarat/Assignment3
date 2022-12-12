@@ -1,0 +1,20 @@
+<ViolationStatistics>
+  <item>
+    <SPEEDING>1.94139E8</SPEEDING>
+  </item>
+  <item>
+    <ROAD_ACCIDENT>7.76556E7</ROAD_ACCIDENT>
+  </item>
+  <item>
+    <PARKING_VIOLATION>5.883E7</PARKING_VIOLATION>
+  </item>
+  <item>
+    <DRIVING_WITHOUT_LICENSE>2.9415E7</DRIVING_WITHOUT_LICENSE>
+  </item>
+  <item>
+    <DANGEROUS_DRIVING>1.94139E7</DANGEROUS_DRIVING>
+  </item>
+  <item>
+    <SEAT_BELT_UNPLUGGED>7647900.0</SEAT_BELT_UNPLUGGED>
+  </item>
+</ViolationStatistics>
