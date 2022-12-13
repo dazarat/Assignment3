@@ -4,7 +4,7 @@ import utils.PropertyReader;
 import java.util.Properties;
 
 public class Main {
-    public static final int THREAD_AMOUNT = 1;
+    public static final int THREAD_AMOUNT = 8;
 
     public static void main(String[] args) {
         Properties properties = PropertyReader.readProperties("src/main/resources/name.properties");
